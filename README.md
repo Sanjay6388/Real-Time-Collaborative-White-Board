@@ -33,6 +33,7 @@ npm i -D nodemon
 
 ## 3. Run the Project
 npm run dev
+
 Note: Ensure that you have the following script added to the package.json file to enable the npm run dev command:
 
 ## 4. Open the Application
