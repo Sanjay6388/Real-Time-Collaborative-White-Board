@@ -16,28 +16,27 @@ The application not only demonstrates strong technical skills in front-end devel
 # Installation and Setup
 ## 1. Clone the Repository
 First, clone the repository to your local machine:
-### git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/your-username/your-repo-name.git
 
 Navigate into the project directory:
-### cd your-repo-name
+cd your-repo-name
 ## 2. Initialize the Project and Install Dependencies
 Use the following commands to initialize the project and install the required dependencies:
-### Initialize npm (this creates a package.json file)
-### npm init -y
-
-### Install the necessary dependencies
-### npm install express socket.io
+Initialize npm (this creates a package.json file)
+npm init -y
+## Install the necessary dependencies
+npm install express socket.io
 
 ### Install development dependencies like nodemon for hot reloading
-### npm install --save-dev nodemon
+npm install --save-dev nodemon
 
 ## 3. Run the Project
-### npm run dev
+npm run dev
 Note: Ensure that you have the following script added to the package.json file to enable the npm run dev command:
 
 ## 4. Open the Application
 Once the server is running, you can access the app by opening your browser and navigating to:
-### http://localhost:8080
+http://localhost:8080
 
 ## 5. Collaborate in Real-time
 Start drawing and invite others to join by sharing your local or deployed instance of the app!
