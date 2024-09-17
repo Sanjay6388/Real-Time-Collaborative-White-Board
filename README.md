@@ -35,8 +35,9 @@ Use the following commands to initialize the project and install the required de
 ### npm run dev
 Note: Ensure that you have the following script added to the package.json file to enable the npm run dev command:
 
-##4. Open the Application
+## 4. Open the Application
 Once the server is running, you can access the app by opening your browser and navigating to:
-###http://localhost:3000
-##5. Collaborate in Real-time
+### http://localhost:3000
+
+## 5. Collaborate in Real-time
 Start drawing and invite others to join by sharing your local or deployed instance of the app!
