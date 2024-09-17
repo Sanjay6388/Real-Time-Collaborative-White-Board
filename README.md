@@ -24,11 +24,12 @@ cd your-repo-name
 Use the following commands to initialize the project and install the required dependencies:
 Initialize npm (this creates a package.json file)
 npm init -y
+
 ## Install the necessary dependencies
-npm install express socket.io
+npm i express socket.io
 
 ### Install development dependencies like nodemon for hot reloading
-npm install --save-dev nodemon
+npm i -D nodemon
 
 ## 3. Run the Project
 npm run dev
