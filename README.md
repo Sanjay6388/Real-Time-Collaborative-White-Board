@@ -13,26 +13,26 @@ The app leverages **React** for an interactive and responsive user interface, en
 
 The application not only demonstrates strong technical skills in front-end development but also highlights the potential of real-time web technologies in enhancing collaborative workflows.
 
-#Installation and Setup
-##1. Clone the Repository
+# Installation and Setup
+## 1. Clone the Repository
 First, clone the repository to your local machine:
-###git clone https://github.com/your-username/your-repo-name.git
+### git clone https://github.com/your-username/your-repo-name.git
 
 Navigate into the project directory:
-###cd your-repo-name
-##2. Initialize the Project and Install Dependencies
+### cd your-repo-name
+## 2. Initialize the Project and Install Dependencies
 Use the following commands to initialize the project and install the required dependencies:
 ### Initialize npm (this creates a package.json file)
-###npm init -y
+### npm init -y
 
 ### Install the necessary dependencies
-###npm install express socket.io
+### npm install express socket.io
 
 ### Install development dependencies like nodemon for hot reloading
-###npm install --save-dev nodemon
+### npm install --save-dev nodemon
 
-##3. Run the Project
-###npm run dev
+## 3. Run the Project
+### npm run dev
 Note: Ensure that you have the following script added to the package.json file to enable the npm run dev command:
 
 ##4. Open the Application
